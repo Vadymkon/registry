@@ -1,0 +1,10 @@
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\bin\Debug\RegistryAPP.exe.config
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\bin\Debug\RegistryAPP.exe
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\bin\Debug\RegistryAPP.pdb
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\obj\Debug\RegistryAPP.csproj.AssemblyReference.cache
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\obj\Debug\RegistryAPP.Form1.resources
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\obj\Debug\RegistryAPP.Properties.Resources.resources
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\obj\Debug\RegistryAPP.csproj.GenerateResource.cache
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\obj\Debug\RegistryAPP.csproj.CoreCompileInputs.cache
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\obj\Debug\RegistryAPP.exe
+C:\knu\spz\1\3\Registry\RegistryAPP\RegistryAPP\obj\Debug\RegistryAPP.pdb
